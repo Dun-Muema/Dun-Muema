@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dun-Muema
 - 👀 I’m interested in Big Data Analysis
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on Learn and Create projects.
+- 🌱 I’m proficient with Python and SQL
+- 💞️ I’m looking to collaborate on Learn, Create projects, and get a job in the Data Analysis field.
 - 📫 How to reach me @dankunmwema@gmail.com
 
 <!---
